@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 2em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    background-color: #CCCCCC;
+    color: #474747;
+    text-align: center;
+}
+
+main {
+    background-color: #FFFFFF;
+}
+
+.title {
+    font-size: 3rem;
+    letter-spacing: 0.75rem;
+    line-height: 4.125rem;
+}
+
+.subtitle {
+    font-weight: 400;
+    font-size: 1.875rem;
+    letter-spacing: 0.375rem;
+    line-height: 3.5rem;
+}
+
+a {
+    padding: 0.1em 3em;
+    font-size: 1.125rem;
+    letter-spacing: 0.375rem;
+    line-height: 3.75rem;
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid #CCCCCC;
+    border-radius: 6px;
+}
